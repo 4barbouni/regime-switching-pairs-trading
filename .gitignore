@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+data_cache/
+demo_*.csv
+demo_*.json
+real_*.csv
+real_*.json
+pair_scan_*.csv
+pair_scan_*.json
+algorithm_3d_model.html
